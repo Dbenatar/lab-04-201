@@ -1,17 +1,17 @@
 function cardCode() {
-  const numSection = 6;
+  const numSection = 10;
 
-  const img = [
-    "./imgs/1.jpeg",
-    "./imgs/2.jpeg",
-    "./imgs/3.jpeg",
-    "./imgs/4.jpeg",
-    "./imgs/5.jpeg",
-    "./imgs/6.jpeg",
-    "./imgs/7.jpeg",
-    "./imgs/8.jpeg",
-    "./imgs/9.jpeg",
-    "./imgs/10.jpeg",
+  const images = [
+    "./img/img1.jpg",
+    "./img/img2.jpg",
+    "./img/img3.jpg",
+    "./img/img4.jpg",
+    "./img/img5.jpg",
+    "./img/img6.jpg",
+    "./img/img7.jpg",
+    "./img/img8.jpg",
+    "./img/img9.jpg",
+    "./img/img10.jpg",
   ];
 
   for (let i = 0; i < numSection; i++) {
